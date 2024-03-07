@@ -1,0 +1,15 @@
+# Ignorar archivos de respaldo generados por editores de texto
+*~
+
+# Ignorar archivos de caché
+.cache/
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar directorio de dependencias (ejemplo de directorio de Node.js)
+node_modules/
+
+# Ignorar Docs y Pdf
+*.pdf
+*.docx
